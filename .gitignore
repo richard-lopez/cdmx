@@ -1,0 +1,6 @@
+# Never publish these: the password and the unencrypted itinerary
+.password
+src/
+preview.html
+.DS_Store
+mockups/
